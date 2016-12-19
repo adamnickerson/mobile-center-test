@@ -3885,7 +3885,7 @@ _mono_aot_file_info:
 	.long 96,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 45,237,207,25,171,92,128,90,192,246,180,233,55,148,129,166
+	.byte 255,26,252,71,39,70,101,82,141,194,230,29,81,2,64,131
 	.globl _mono_aot_module_UXDivers_Artina_Shared_iOS_info
 	.align 2
 _mono_aot_module_UXDivers_Artina_Shared_iOS_info:

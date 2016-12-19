@@ -6447,7 +6447,7 @@ _mono_aot_file_info:
 	.long 344,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 13,164,200,220,69,73,22,23,183,139,148,176,161,255,223,87
+	.byte 78,143,100,137,243,212,122,170,255,96,183,24,123,46,70,14
 	.globl _mono_aot_module_Microsoft_Azure_Mobile_Crashes_info
 	.align 2
 _mono_aot_module_Microsoft_Azure_Mobile_Crashes_info:

@@ -76,6 +76,8 @@
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/lib/ios-unified/UXDivers.Artina.Shared.iOS.dll \
 	-r \
+	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Xamarin.UITest.2.0.4.1584-dev/lib/Xamarin.UITest.dll \
+	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial/bin/Debug/UXDivers.Artina.Grial.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
@@ -385,6 +387,8 @@
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/lib/pcl/UXDivers.Artina.Shared.dll \
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/lib/ios-unified/UXDivers.Artina.Shared.iOS.dll \
+	-r \
+	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Xamarin.UITest.2.0.4.1584-dev/lib/Xamarin.UITest.dll \
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial/bin/Debug/UXDivers.Artina.Grial.dll \
 	--target-framework \

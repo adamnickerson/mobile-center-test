@@ -74,3 +74,4 @@
 /Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/bin/iPhone/Debug/Microsoft.Azure.Mobile.Analytics.iOS.Bindings.dll
 /Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/bin/iPhone/Debug/Microsoft.Azure.Mobile.Crashes.dll
 /Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/bin/iPhone/Debug/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/bin/iPhone/Debug/Xamarin.UITest.dll

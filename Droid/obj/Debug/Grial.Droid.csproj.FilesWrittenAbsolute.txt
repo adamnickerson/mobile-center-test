@@ -227,5 +227,6 @@
 /Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
 /Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/bin/Debug/UXDivers.Artina.Shared.dll
 /Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/bin/Debug/UXDivers.Artina.Shared.Droid.dll
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/bin/Debug/Xamarin.UITest.dll
 /Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/bin/Debug/UXDivers.Artina.Grial.dll
 /Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/bin/Debug/UXDivers.Artina.Grial.dll.mdb

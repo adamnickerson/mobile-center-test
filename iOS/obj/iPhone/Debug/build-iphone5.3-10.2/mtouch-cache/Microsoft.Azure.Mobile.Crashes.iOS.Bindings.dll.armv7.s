@@ -6669,7 +6669,7 @@ _mono_aot_file_info:
 	.long 256,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 179,232,34,100,105,27,18,111,32,74,168,11,98,141,12,48
+	.byte 63,40,60,229,240,191,145,106,46,167,68,235,56,100,164,83
 	.globl _mono_aot_module_Microsoft_Azure_Mobile_Crashes_iOS_Bindings_info
 	.align 2
 _mono_aot_module_Microsoft_Azure_Mobile_Crashes_iOS_Bindings_info:
