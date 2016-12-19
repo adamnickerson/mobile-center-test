@@ -122,6 +122,9 @@
     <Reference Include="UXDivers.Artina.Shared.Droid">
       <HintPath>..\lib\android\UXDivers.Artina.Shared.Droid.dll</HintPath>
     </Reference>
+    <Reference Include="Xamarin.UITest">
+      <HintPath>..\packages\Xamarin.UITest.2.0.4.1584-dev\lib\Xamarin.UITest.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />

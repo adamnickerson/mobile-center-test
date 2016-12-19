@@ -31,22 +31,20 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Grial" expanded="True">
-            <Node name="Grial.iOS" expanded="True">
-              <Node name="Info.plist" selected="True" />
-            </Node>
+            <Node name="Grial.iOS" expanded="True" selected="True" />
             <Node name="Grial.UITest" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial/Views/AstraZeneca/DiagnosisPage.xaml" relfile="Grial/Views/AstraZeneca/DiagnosisPage.xaml" line="16" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Grial.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EFFA5417-46AC-46BD-A900-39E9E01D981F" />
+  <MonoDevelop.Ide.ItemProperties.Grial.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.546c5591f12b43a64a4fb1ad7ba7fe3f2ca8afcf" />
   <MultiItemStartupConfigurations />
 </Properties>

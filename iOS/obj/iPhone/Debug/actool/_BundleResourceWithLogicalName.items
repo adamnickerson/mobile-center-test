@@ -37,14 +37,6 @@
       <LogicalName>AppIcons60x60@3x.png</LogicalName>
       <Optimize>false</Optimize>
     </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons29x29~ipad.png">
-      <LogicalName>AppIcons29x29~ipad.png</LogicalName>
-      <Optimize>false</Optimize>
-    </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons29x29@2x~ipad.png">
-      <LogicalName>AppIcons29x29@2x~ipad.png</LogicalName>
-      <Optimize>false</Optimize>
-    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons40x40~ipad.png">
       <LogicalName>AppIcons40x40~ipad.png</LogicalName>
       <Optimize>false</Optimize>
@@ -77,12 +69,8 @@
       <LogicalName>AppIcons76x76@2x~ipad.png</LogicalName>
       <Optimize>false</Optimize>
     </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons60x60@2x~car.png">
-      <LogicalName>AppIcons60x60@2x~car.png</LogicalName>
-      <Optimize>false</Optimize>
-    </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons60x60@3x~car.png">
-      <LogicalName>AppIcons60x60@3x~car.png</LogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/LaunchImage-700-568h@2x.png">
+      <LogicalName>LaunchImage-700-568h@2x.png</LogicalName>
       <Optimize>false</Optimize>
     </_BundleResourceWithLogicalName>
   </ItemGroup>

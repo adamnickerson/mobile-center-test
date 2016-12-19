@@ -1,0 +1,7 @@
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial.UITest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial.UITest/bin/Debug/Grial.UITest.dll.mdb
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial.UITest/bin/Debug/Grial.UITest.dll
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial.UITest/obj/Debug/Grial.UITest.dll
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial.UITest/obj/Debug/Grial.UITest.dll.mdb
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial.UITest/bin/Debug/nunit.framework.dll
+/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial.UITest/bin/Debug/Xamarin.UITest.dll

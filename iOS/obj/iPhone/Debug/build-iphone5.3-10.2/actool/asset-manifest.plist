@@ -15,8 +15,6 @@
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons57x57@2x.png</string>
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons60x60@2x.png</string>
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons60x60@3x.png</string>
-			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons29x29~ipad.png</string>
-			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons29x29@2x~ipad.png</string>
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons40x40~ipad.png</string>
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons40x40@2x~ipad.png</string>
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons50x50~ipad.png</string>
@@ -25,8 +23,7 @@
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons72x72@2x~ipad.png</string>
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons76x76~ipad.png</string>
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons76x76@2x~ipad.png</string>
-			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons60x60@2x~car.png</string>
-			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/AppIcons60x60@3x~car.png</string>
+			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/bundle/LaunchImage-700-568h@2x.png</string>
 			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/obj/iPhone/Debug/build-iphone5.3-10.2/actool/partial-info.plist</string>
 		</array>
 	</dict>
@@ -122,6 +119,19 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
+				<string>./LaunchImage.launchimage/(null)[2d][Default-Portrait.png]</string>
+				<string>./LaunchImage.launchimage/(null)[2d][Default-Portrait@2x.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The launch image set "LaunchImage" has 2 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
 				<string>./AppIcons.appiconset/(null)[2d][Icon-60.png]</string>
 			</array>
 			<key>catalog</key>
@@ -130,6 +140,30 @@
 			<string>The app icon set "AppIcons" has an unassigned child.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset/[][ipad][29x29][][][1x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon-Small.png" for the image set "AppIcons" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset/[][ipad][29x29][][][2x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon-Small@2x.png" for the image set "AppIcons" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
 		</dict>
 	</array>
 </dict>

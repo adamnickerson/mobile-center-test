@@ -531,6 +531,9 @@
     <Reference Include="UXDivers.Artina.Shared">
       <HintPath>..\lib\pcl\UXDivers.Artina.Shared.dll</HintPath>
     </Reference>
+    <Reference Include="Xamarin.UITest">
+      <HintPath>..\packages\Xamarin.UITest.2.0.4.1584-dev\lib\Xamarin.UITest.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <None Include="Colors.tt">
