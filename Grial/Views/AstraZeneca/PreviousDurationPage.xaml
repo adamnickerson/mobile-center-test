@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UXDivers.Artina.Grial.PreviousDurationPage"
+xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+	xmlns:commonViews="clr-namespace:UXDivers.Artina.Grial;assembly=UXDivers.Artina.Grial"
+	>
+	<ContentPage.Content>
+	<StackLayout>
+		<StackLayout Padding="20">
+				<Frame>
+				<Label Text="Patient must be on an Inhaled Corticolsteriod (ICS) for 3 months or more" 
+				FontSize="12" />
+			</Frame>
+			<Label Text="How long has the patiend been using using xxxx?" 
+				FontSize="14" />
+		<!--BUTTONS-->
+
+					<artina:Button 
+			Clicked="OnPreviousDurationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="> 3 months"
+			VerticalOptions="StartAndExpand"/>
+
+				<artina:Button 
+			Clicked="OnPreviousDurationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="> 6 months"
+			VerticalOptions="StartAndExpand"/>
+				<artina:Button 
+			Clicked="OnPreviousDurationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="> 1 year"
+			VerticalOptions="StartAndExpand"/>			
+				
+			
+		</StackLayout>
+	</StackLayout>
+		
+	</ContentPage.Content>
+</ContentPage>

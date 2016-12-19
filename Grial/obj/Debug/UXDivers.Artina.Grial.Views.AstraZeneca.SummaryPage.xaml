@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UXDivers.Artina.Grial.SummaryPage">
+	<ContentPage.Content>
+		<StackLayout>
+		<Label>
+		<Label.Text>Additional Questions, Prescriber information, then summary of results goes here, print, email, etc</Label.Text>
+				
+			</Label>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

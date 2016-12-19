@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="UXDivers.Artina.Grial.WelcomePage"
+	BackgroundImage="{ StaticResource WelcomeBackgroundImage }"
+	xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+	xmlns:commonViews="clr-namespace:UXDivers.Artina.Grial;assembly=UXDivers.Artina.Grial">
+
+	<StackLayout 
+		Padding="20">
+		 <!--  <Label
+                        LineBreakMode="WordWrap"
+                        Text="Special Authorization"
+                        TextColor="Gray"
+						VerticalOptions="Sta"
+                        HorizontalTextAlignment="Center"
+                      
+                        FontSize="36"
+                        TranslationY="-20"
+                        AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                        AbsoluteLayout.LayoutFlags="All"
+                />-->
+
+		
+		<!--BUTTONS-->
+		<StackLayout 
+			VerticalOptions="StartAndExpand" 
+			HorizontalOptions="FillAndExpand" 
+			AbsoluteLayout.LayoutBounds="0,1,1,100"
+			AbsoluteLayout.LayoutFlags="XProportional, YProportional, WidthProportional"
+			Spacing="10"
+			>
+			
+<!--		<artina:Button 
+			Clicked="OnBrowseSamplesButtonTapped" 
+			Style="{DynamicResource PrimaryActionButtonStyle}" 
+			Text="Grials" 
+			VerticalOptions="StartAndExpand"/>-->
+			
+		<artina:Button 
+			Clicked="OnWalkthroughButtonTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Request Special Authorization"
+			VerticalOptions="StartAndExpand"/>
+		
+
+
+				
+			
+		</StackLayout>
+
+		<!--CLAIM TEXT-->
+		 
+
+			<!--LOGO-->
+		<commonViews:BrandBlock
+		VerticalOptions="EndAndExpand"
+				/> 
+
+	</StackLayout>
+
+</ContentPage>

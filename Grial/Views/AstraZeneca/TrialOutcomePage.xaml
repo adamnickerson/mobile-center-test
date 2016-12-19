@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UXDivers.Artina.Grial.TrialOutcomePage" xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+	xmlns:commonViews="clr-namespace:UXDivers.Artina.Grial;assembly=UXDivers.Artina.Grial">
+	<ContentPage.Content>
+	<StackLayout>
+
+		<StackLayout Padding="20">
+
+	<Label Text="Trial Outcome" 
+				FontSize="14" />
+		
+		<!--BUTTONS-->
+		<StackLayout 
+			VerticalOptions="StartAndExpand" 
+			HorizontalOptions="FillAndExpand" 
+			AbsoluteLayout.LayoutBounds="0,1,1,100"
+			AbsoluteLayout.LayoutFlags="XProportional, YProportional, WidthProportional"
+			Spacing="10"
+			>
+		<Editor 					
+		VerticalOptions="CenterAndExpand"
+						HeightRequest="200"
+					/>
+		<artina:Button 
+			Clicked="OnTrialOutcomeTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Next"
+			VerticalOptions="End"
+		/>
+		
+
+				
+			
+		</StackLayout>
+	</StackLayout>
+	</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

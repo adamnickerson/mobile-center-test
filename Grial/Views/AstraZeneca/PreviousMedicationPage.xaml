@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UXDivers.Artina.Grial.PreviousMedicationPage"
+xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+	xmlns:commonViews="clr-namespace:UXDivers.Artina.Grial;assembly=UXDivers.Artina.Grial"
+	>
+	<ContentPage.Content>
+
+		<StackLayout Padding="20">
+				<Frame>
+	<Label Text="Patient must be on an Inhaled Corticolsteriod (ICS) for 3 months or more" 
+				FontSize="12" />
+			</Frame>
+			<Label Text="Which medication is the patient currently using?" 
+				FontSize="14" />
+		<!--BUTTONS-->
+		<StackLayout 
+			VerticalOptions="StartAndExpand" 
+			HorizontalOptions="FillAndExpand" 
+			AbsoluteLayout.LayoutBounds="0,1,1,100"
+			AbsoluteLayout.LayoutFlags="XProportional, YProportional, WidthProportional"
+			Spacing="10"
+			>
+		
+					<artina:Button 
+			Clicked="OnMedicationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Alvesco 100mcg"
+			VerticalOptions="StartAndExpand"/>
+
+		<artina:Button 
+			Clicked="OnMedicationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Flovent HFA 50mcg" 
+			VerticalOptions="StartAndExpand"/>
+
+				<artina:Button 
+			Clicked="OnMedicationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Pulmicort Turbuhaler 100mcg"
+			VerticalOptions="StartAndExpand"
+				/>
+		
+
+		<artina:Button 
+			Clicked="OnMedicationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="QVAR 50 mcg"
+			VerticalOptions="StartAndExpand"
+	/>
+		
+
+				
+			
+		</StackLayout>
+	</StackLayout>
+
+	</ContentPage.Content>
+</ContentPage>

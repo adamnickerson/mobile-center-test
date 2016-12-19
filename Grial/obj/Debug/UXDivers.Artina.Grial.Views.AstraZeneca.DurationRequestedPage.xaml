@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UXDivers.Artina.Grial.DurationRequestedPage"
+	xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+	xmlns:commonViews="clr-namespace:UXDivers.Artina.Grial;assembly=UXDivers.Artina.Grial">
+	<ContentPage.Content>
+	<StackLayout>
+		<StackLayout Padding="20">
+		<Label Text="How long will the patient require xxxx?" 
+				FontSize="14" />
+		<!--BUTTONS-->
+
+		<artina:Button 
+			Clicked="OnDurationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Indefinite"
+			VerticalOptions="StartAndExpand"/>
+
+				<artina:Button 
+			Clicked="OnDurationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="> 2 years"
+			VerticalOptions="StartAndExpand"/>
+				<artina:Button 
+			Clicked="OnDurationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="> 1 year"
+			VerticalOptions="StartAndExpand"/>
+				<artina:Button 
+			Clicked="OnDurationTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="> 6 months"
+			VerticalOptions="StartAndExpand"/>		
+				
+			
+		</StackLayout>
+	</StackLayout>
+				
+	</ContentPage.Content>
+</ContentPage>

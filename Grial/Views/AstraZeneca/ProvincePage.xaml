@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UXDivers.Artina.Grial.ProvincePage"
+xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+	xmlns:commonViews="clr-namespace:UXDivers.Artina.Grial;assembly=UXDivers.Artina.Grial">
+	<ContentPage.Content>
+	<StackLayout>
+					<commonViews:CustomNavBar />
+		
+		<StackLayout Padding="20">
+
+	<Label Text="Select a province..." 
+				FontSize="14" />
+		
+		<!--BUTTONS-->
+		<StackLayout 
+			VerticalOptions="StartAndExpand" 
+			HorizontalOptions="FillAndExpand" 
+			AbsoluteLayout.LayoutBounds="0,1,1,100"
+			AbsoluteLayout.LayoutFlags="XProportional, YProportional, WidthProportional"
+			Spacing="10"
+			>
+					<artina:Button 
+			Clicked="OnProvinceTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Newfoundland"
+			VerticalOptions="StartAndExpand"/>
+				
+		<artina:Button 
+			Clicked="OnProvinceTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Nova Scotia" 
+			VerticalOptions="StartAndExpand"/>
+
+				<artina:Button 
+			Clicked="OnProvinceTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="New Brunswick"
+			VerticalOptions="StartAndExpand"
+				IsEnabled="false"/>
+		
+
+		<artina:Button 
+			Clicked="OnProvinceTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Prince Edward Island"
+			VerticalOptions="StartAndExpand"
+			IsEnabled="false"
+				/>
+		
+
+				
+			
+		</StackLayout>
+	</StackLayout>
+	</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

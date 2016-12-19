@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.Grial.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Grial/ViewModel/ArticleViewModel.cs" Line="1" Column="9" />
+      <File FileName="Grial/Models/Post.cs" Line="1" Column="1" />
+      <File FileName="Grial/Views/Social/SocialVariantPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Grial/Views/Theme/CustomRenderersPage.xaml.cs" Line="16" Column="1" />
+      <File FileName="Grial/Helpers/Grouping.cs" Line="1" Column="1" />
+      <File FileName="Grial/Helpers/NavigationService.cs" Line="88" Column="3" />
+      <File FileName="Grial/Views/Navigation/CustomNavBarPage.xaml.cs" Line="13" Column="2" />
+      <File FileName="Grial/Views/AstraZeneca/ProvincePage.xaml.cs" Line="16" Column="2" />
+      <File FileName="Grial/Views/Common/CustomNavBar.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="12" Column="1" />
+      <File FileName="Grial/Views/Settings/SettingsPage.xaml.cs" Line="12" Column="1" />
+      <File FileName="Grial/Views/AstraZeneca/DurationRequestedPage.xaml.cs" Line="15" Column="2" />
+      <File FileName="Grial/Views/AstraZeneca/MedicationRequested.xaml.cs" Line="10" Column="7" />
+      <File FileName="Grial/Views/AstraZeneca/PreviousDurationPage.xaml.cs" Line="17" Column="20" />
+      <File FileName="Grial/Views/AstraZeneca/PreviousMedicationPage.xaml.cs" Line="15" Column="49" />
+      <File FileName="Grial/Views/AstraZeneca/SummaryPage.xaml.cs" Line="12" Column="12" />
+      <File FileName="Grial/Views/AstraZeneca/TrialOutcomePage.xaml.cs" Line="15" Column="2" />
+      <File FileName="Grial/Views/AstraZeneca/ReasonForRequestPage.xaml.cs" Line="22" Column="1" />
+      <File FileName="Grial/App.xaml.cs" Line="22" Column="4" />
+      <File FileName="iOS/AppDelegate.cs" Line="14" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grial" expanded="True">
+            <Node name="Grial" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="UXDivers.Artina.Shared" selected="True" />
+              </Node>
+              <Node name="Packages" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="Grial.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial/Views/AstraZeneca/DiagnosisPage.xaml" relfile="Grial/Views/AstraZeneca/DiagnosisPage.xaml" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Grial.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EFFA5417-46AC-46BD-A900-39E9E01D981F" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UXDivers.Artina.Grial.DiagnosisPage"
+	xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+	xmlns:commonViews="clr-namespace:UXDivers.Artina.Grial;assembly=UXDivers.Artina.Grial">
+	<ContentPage.Content>
+<StackLayout 
+		Padding="20">
+
+
+		<!--CLAIM TEXT-->
+<Label Text="What is the diagnosis?" 
+				FontSize="14" />
+		<!--BUTTONS-->
+		<StackLayout 
+			VerticalOptions="StartAndExpand" 
+			HorizontalOptions="FillAndExpand" 
+			AbsoluteLayout.LayoutBounds="0,1,1,100"
+			AbsoluteLayout.LayoutFlags="XProportional, YProportional, WidthProportional"
+			Spacing="10"
+			>
+			
+		<artina:Button 
+			Clicked="OnDiagnosisTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="COPD" 
+			VerticalOptions="StartAndExpand"/>
+
+				<artina:Button 
+			Clicked="OnDiagnosisTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+			Text="Asthma (Reversable Obstructive Airway Disease)"
+			FontSize="10"
+			VerticalOptions="StartAndExpand"/>
+		
+		<artina:Button 
+			Clicked="OnDiagnosisTapped" 
+			Style="{DynamicResource SecondaryActionButtonStyle}" 
+		
+			Text="Other"
+			VerticalOptions="StartAndExpand"/>
+	
+		</StackLayout>
+	</StackLayout>
+
+			
+	</ContentPage.Content>
+</ContentPage>
