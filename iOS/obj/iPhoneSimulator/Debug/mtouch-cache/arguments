@@ -30,11 +30,7 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/lib/pcl/UXDivers.Artina.Shared.dll \
-	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Xamarin.TestCloud.Agent.0.19.0/lib/Xamarin.iOS10/Calabash.dll \
-	-r \
-	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/lib/ios-unified/UXDivers.Artina.Shared.iOS.dll \
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
@@ -75,6 +71,10 @@
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Microsoft.Azure.Mobile.Crashes.0.5.0/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll \
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Microsoft.Azure.Mobile.Crashes.0.5.0/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll \
+	-r \
+	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/lib/pcl/UXDivers.Artina.Shared.dll \
+	-r \
+	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/lib/ios-unified/UXDivers.Artina.Shared.iOS.dll \
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial/bin/Debug/UXDivers.Artina.Grial.dll \
 	-r \
@@ -342,11 +342,7 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/lib/pcl/UXDivers.Artina.Shared.dll \
-	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Xamarin.TestCloud.Agent.0.19.0/lib/Xamarin.iOS10/Calabash.dll \
-	-r \
-	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/lib/ios-unified/UXDivers.Artina.Shared.iOS.dll \
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
@@ -385,6 +381,10 @@
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Microsoft.Azure.Mobile.Crashes.0.5.0/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll \
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/packages/Microsoft.Azure.Mobile.Crashes.0.5.0/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll \
+	-r \
+	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/lib/pcl/UXDivers.Artina.Shared.dll \
+	-r \
+	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/lib/ios-unified/UXDivers.Artina.Shared.iOS.dll \
 	-r \
 	/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial/bin/Debug/UXDivers.Artina.Grial.dll \
 	--target-framework \

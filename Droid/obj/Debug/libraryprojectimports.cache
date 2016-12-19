@@ -4,32 +4,32 @@
   <ResolvedResourceDirectories>
     <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/UXDivers.Artina.Shared.Droid/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.core/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.lib.e_sqlite3/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.provider.e_sqlite3/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/UXDivers.Artina.Shared.Droid/library_project_imports/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/__library_projects__/UXDivers.Artina.Shared.Droid/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.core/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.lib.e_sqlite3/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.provider.e_sqlite3/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/UXDivers.Artina.Shared.Droid/library_project_imports/assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
     <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/UXDivers.Artina.Shared.Droid.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.lib.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.provider.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Droid/obj/Debug/__library_projects__/UXDivers.Artina.Shared.Droid.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
