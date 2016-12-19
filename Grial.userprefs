@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Grial.UITest/AppInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Grial.UITest/Tests.cs">
     <Files>
       <File FileName="Grial/ViewModel/ArticleViewModel.cs" Line="1" Column="9" />
       <File FileName="Grial/Models/Post.cs" Line="1" Column="1" />
@@ -21,19 +21,17 @@
       <File FileName="Grial/Views/AstraZeneca/ReasonForRequestPage.xaml.cs" Line="22" Column="1" />
       <File FileName="Grial/App.xaml.cs" Line="22" Column="4" />
       <File FileName="iOS/AppDelegate.cs" Line="37" Column="2" />
-      <File FileName="Grial.UITest/AppInitializer.cs" Line="24" Column="3" />
+      <File FileName="Grial.UITest/AppInitializer.cs" Line="41" Column="3" />
       <File FileName="Grial.UITest/packages.config" Line="1" Column="1" />
-      <File FileName="Grial.UITest/Tests.cs" Line="1" Column="1" />
+      <File FileName="Grial.UITest/Tests.cs" Line="26" Column="3" />
       <File FileName="iOS/Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Grial" expanded="True">
-            <Node name="Grial.iOS" expanded="True">
-              <Node name="Packages" expanded="True" />
-            </Node>
-            <Node name="Grial.UITest" expanded="True" selected="True">
+            <Node name="Grial.iOS" selected="True" />
+            <Node name="Grial.UITest" expanded="True">
               <Node name="References" expanded="True" />
               <Node name="Packages" expanded="True" />
             </Node>
@@ -44,10 +42,13 @@
         <State name="__root__">
           <Node name="Grial" expanded="True">
             <Node name="Grial.UITest" expanded="True">
+              <Node name="Test Apps" expanded="True" />
               <Node name="Grial" expanded="True">
                 <Node name="UITest" expanded="True">
                   <Node name="Tests" expanded="True">
-                    <Node name="Tests(Android)" expanded="True" selected="True" />
+                    <Node name="Tests(iOS)" expanded="True">
+                      <Node name="AppLaunches" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
               </Node>
@@ -57,13 +58,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/adamnickerson/Downloads/grial-uikit-extended-1.5.2/samples/Grial/Grial/Views/AstraZeneca/DiagnosisPage.xaml" relfile="Grial/Views/AstraZeneca/DiagnosisPage.xaml" line="16" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Grial.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4BEF4778-DF07-4FF2-A5A3-3E5383372D4F" />
+  <MonoDevelop.Ide.ItemProperties.Grial.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.546c5591f12b43a64a4fb1ad7ba7fe3f2ca8afcf" />
   <MultiItemStartupConfigurations />
 </Properties>
